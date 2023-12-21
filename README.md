@@ -1,6 +1,7 @@
 Pose Estimation of a Mobile Robot Based on Fusion of IMU Data and GPS data Using an Extended Kalman Filter
 
 We are estimating the position and orientation of ground vehicles by fusing data from an inertial measurement unit (IMU) and a global positioning system (GPS) receiver using the follownig procedure,
+
 ![image](https://github.com/Hazikafarooq/Mobile_Robotics_Project_2023/assets/84680497/5faf82df-6cbb-467f-8528-704e7415fccc)
 
 |
